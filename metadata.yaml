@@ -1,4 +1,8 @@
 _repo: How-The-Poor-Live-and-Horrible-London-1889_49853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49853-h/images/cover.jpg
 creator:
   author:
     agent_name: Sims, George R.
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '7938'
     url: http://www.gutenberg.org/2009/agents/7938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49853#How-The-Poor-Live-and-Horrible-London-1889
 gutenberg_issued: '2015-09-02'
 gutenberg_type: Text
 identifiers:
