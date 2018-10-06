@@ -15,6 +15,7 @@ Title: How The Poor Live, and Horrible London
 Author: George R. Sims
 
 Release Date: September 2, 2015 [EBook #49853]
+Last Updated: May 6, 2016
 
 Language: English
 
@@ -281,8 +282,8 @@ rent is four and sixpence a week, and the family living in it numbers
 eight souls; their total earnings are twelve shillings. A hard lot, one
 would fancy; but in comparison to what we have to encounter presently
 it certainly is not. Asked about the stairs, the woman says, 'It is a
-little ockard-like for the young'uns a-goin' up and down to school now
-the Board make'em wear boots; but they don't often hurt themselves.'
+little ockard-like for the young 'uns a-goin' up and down to school now
+the Board make 'em wear boots; but they don't often hurt themselves.'
 Minus the boots, the children had got used to the ascent and descent, I
 suppose, and were as much at home on the crazy staircase as a chamois on
 a precipice. _Excelsior_ is our motto on this staircase. No maiden
@@ -547,7 +548,7 @@ their landlord, who absolutely refused to repair their room or give them
 the slightest convenience.
 
 'Then why not move?' I ventured to suggest. 'Four shillings a week--ten
-guineas a year for this pigsty--is'. an exorbitant rent: you might do
+guineas a year for this pigsty--is an exorbitant rent: you might do
 better.'
 
 The woman shook her head. 'There's lots o' better places we'd like to
@@ -931,7 +932,7 @@ timekeeper in a builder's yard, as a messenger, or as anything by which
 he can get a few shillings for a living.
 
 The children have not been to school. 'Why?' asks the officer who
-accompanies us. 'Because they've no hoots, and they are both ill now.'
+accompanies us. 'Because they've no boots, and they are both ill now.'
 It is true. The children, pale, emaciated little things, cough a hard,
 rasping cough from time to time. To show us how bad they are they set
 up a perfect paroxysm of coughing until the mother fetches them a smack,
@@ -952,8 +953,8 @@ The difficulties which the poor have in complying with the demands of
 the Education Act are quite unsuspected by the general public. They are
 so numerous, and the histories revealed by their investigation are
 so strange, that I propose in the next chapter to ask the reader to
-accompany me to a meeting at which the parental excuses for non-,
-attendance are made. This is a meeting at which the parents who have
+accompany me to a meeting at which the parental excuses for non-attendance
+are made. This is a meeting at which the parents who have
 been 'noticed' for the non-attendance of their children adduce what
 reasons they can why they should not be summoned before a magistrate.
 
@@ -1111,7 +1112,7 @@ this class is very great on the rights of property; and more than one
 energetic dame, if she knew she was being 'noted' by an unauthorized
 interloper, would return the compliment with interest.
 
-'The short and simple annals of the poor,' here related in their own
+'The short and simple annals of the poor, here related in their own
 words, will induct the reader into the mysteries of 'How they live'
 far more thoroughly than I could do did I fill pages with my own
 composition; so, silence, pray, and let the 'B' meeting commence.
@@ -1146,7 +1147,7 @@ fund to let a few bad cases have boots, and this truant has been one of
 the first recipients.
 
 'I know you was kind enough to do that,' says the mother, 'but they 'urt
-him, and he can't wear'em.'
+him, and he can't wear 'em.'
 
 Here the officer who has brought the lady up before the Board tells
 _his_ story.
@@ -1223,7 +1224,7 @@ seats herself nervously on the extreme edge of the chair.
 
 'You're not Mrs. Smith, my dear,' says the chairman, with a smile.
 
-'No, sir; that's mother.'.
+'No, sir; that's mother.'
 
 'Oh, you've come for her, eh? These boys, Thomas and Charles, who have
 been absent for three weeks, are your brothers, I suppose?'
@@ -1376,7 +1377,7 @@ second-hand shoes, three times too large for her.
 
 'And where did you get them?'
 
-'One of my fathers gave'em to me, mistress--the one what's at home this
+'One of my fathers gave 'em to me, mistress--the one what's at home this
 week.'
 
 This 'father' was evidently a better fellow than most of the nomadic
@@ -1486,7 +1487,7 @@ even if you have rheumatics.'
 'Yes, sir, I know; but it's that boy as is the trouble. Ye see, sir, he
 can't be lef' not a minnit without somebody as can get after him
 quick. He 's allers settin' hisself afire. He gets the matches wherever
-we 'ides'em, and he lights anything he sees--the bed, the baby, hisself.
+we 'ides 'em, and he lights anything he sees--the bed, the baby, hisself.
 Bless you, gen'lemen, it's orful; he can't be off settin' somethin'
 alight not five minnits together. He ain't right in 'is 'ed, sir.'
 
@@ -1660,7 +1661,7 @@ So important a bearing on the home question has the schooling of the
 children who are to be the rent-payers of the next generation, that I
 propose to devote the next chapter to some sketches of School Board
 life and character; and I will take it in one of the worst districts in
-London, where-the parents are sunk in a state of misery almost beyond
+London, where the parents are sunk in a state of misery almost beyond
 belief.
 
 I will show you the children at school who come daily to their work from
@@ -1785,7 +1786,7 @@ certain age--no matter how wretched its condition may be--that is not
 brought within the beneficial influence of education.
 
 True that many of them come shoeless, ragged, and starving, to learn the
-three 'B's,' to burthen their scanty brains with sums and tasks while
+three 'R's,' to burthen their scanty brains with sums and tasks while
 their stomachs are empty and their bodies weakened by disease and
 neglect; but they have at least their chance. Let us take a school
 where, perhaps, the poorest children come--a school recruited from such
@@ -2286,7 +2287,7 @@ time of the visit of the inspector the smell from it was most offensive.
 Although in each of these cases everything was done by the officer
 of this Board, and by the relieving officer, to induce the respective
 parties to bury their dead before a nuisance was occasioned, yet to a
-certain extent their effort s were unavailing.
+certain extent their efforts were unavailing.
 
 As such cases are of frequent occurrence, it is certainly full time
 that power was given to magistrates to order the burial without delay
@@ -2773,7 +2774,7 @@ commercial status of her intended.
 
 I alluded in a recent chapter to the costermongers as a large and worthy
 class. Since that chapter was written I have explored a district which
-is almost exclusively inhabited by them--a portion of St. Luke's.. To
+is almost exclusively inhabited by them--a portion of St. Luke's. To
 what I have already written let me add that until now I had not the
 slightest conception that things were so bad as they really are. My
 visit was early in the morning, before the men and women had gone out
@@ -2804,7 +2805,7 @@ room, and all round the district the very vilest accommodation fetches
 something very near that figure.
 
 Eight shillings a week for one room! Surely a class that can pay that
-must be worth catering for even by the five per cent, philanthropists.
+must be worth catering for even by the five per cent. philanthropists.
 
 Some time ago there was a scheme to build a goods station in this
 district, and before the Bill could be considered Parliment required a
@@ -2892,7 +2893,7 @@ The principal amusement of the people who have no money is, I take it,
 loafing at street corners and gossiping with their neighbours, and the
 form of enjoyment by far the most prevalent is getting drunk.
 
-The public-house, after centuries of philanthropic tail-talk and
+The public-house, after centuries of philanthropic tall-talk and
 hundreds of miles of newspaper and magazine writing, tracts and essays,
 remains still the Elysian field for the tired toiler. The well-meaning
 efforts of the societies which have endeavoured to attract the poor
@@ -2903,7 +2904,7 @@ the scheme which the poor always regard with suspicion. They want
 their amusement as a right, not as a favour, and they decline to be
 patronized.
 
-The public-house', then, is still the centre of attraction for the
+The public-house, then, is still the centre of attraction for the
 masses during their leisure--the public-house and its giant offspring,
 the music-hall. The old Free and Easy, held every Monday or every
 Saturday, as the case might be, in the bar-parlour or the big room
@@ -3266,7 +3267,7 @@ them and dressed them, and did for them all she could, and she intended
 to keep them if she was able till the mother came out.
 
 She didn't see that she had done anything wonderful. 'It was only
-neighbourly-like, and my heart bled to see the poor young'uns a-cryin',
+neighbourly-like, and my heart bled to see the poor young 'uns a-cryin',
 and that wretched and neglected and dirty.'
 
 Such cases as this are common enough--the true charity, the charity
@@ -3877,7 +3878,7 @@ resting-place for worn-out boots and tea-kettles. The consequence
 of this is, that the hardships of the displaced families have been
 increased a hundredfold. So limited is now the accommodation for the
 class whose wage-earning power is of the smallest, that in the few
-quarters left open to them rents have gone up 100 per cent, in five
+quarters left open to them rents have gone up 100 per cent. in five
 years--a room which once let for 2s. a week is now 4s. Worse even than
 this--the limited accommodation has left the renters helpless victims
 of any extortion or neglect the landlords of these places may choose to
@@ -4113,7 +4114,7 @@ whatever the religious view of the subject may be.
 Having separated the criminals from the workers, the next task must be
 to separate the old from the young, in planning out measures of reform
 and applying remedies. The condition of many of the older people, even
-among the pooler workers, is almost hopeless. They could never adapt
+among the poorer workers, is almost hopeless. They could never adapt
 themselves now to the life the philanthropist dreams for them.
 They could not be brought to see that marriage is any better than
 cohabitation, that thrift is a virtue, or that there is any higher
@@ -4314,7 +4315,7 @@ four children. Rent, 4s. Father professional thief. Constantly in and
 out of prison.
 
 These cases are fair samples of the class of people we call the abject
-poor,' people who will not go to the workhouse under any circumstances,
+poor, people who will not go to the workhouse under any circumstances,
 and who are at present herding together in the rookeries we are all
 agreed must be demolished and replaced by something better. Add to them
 the people carrying on objectionable trades in one or two rooms--and who
@@ -4970,7 +4971,7 @@ are pleased to term 'outcasts.' Outcasts many of the abject poor are.
 They are cast out by Dives to make room for his mansions, his marts,
 and his manufactories, his railway schemes and his splendid streets,
 and they are cast out by the stern philosophers who hold that before the
-march of improvement all who are not fit to survive must shrink hack and
+march of improvement all who are not fit to survive must shrink back and
 hide in holes and corners till, in obedience to the law of nature, they
 pass away and cumber the earth no more. But they are not outcasts to
 their brethren in misfortune, or to the grade of poor immediately above
@@ -4987,7 +4988,7 @@ poor man bares his breast to the light of day, and has not a neighbour
 but knows the nature of his woe and has seen every link in the chain of
 circumstances that brought his trouble about. What is the fate of one
 to-day may be the fate of another to-morrow. In their sympathy they are
-hut making common cause against a common enemy. The poor are trained by
+but making common cause against a common enemy. The poor are trained by
 constant association to ready appreciation of the 'points' of the human
 drama always being enacted before their eyes, just as certain audiences
 are trained to appreciate the points of the theatrical drama. To expect
@@ -5043,7 +5044,7 @@ consumption, leaving four children and a husband out of work. He set out
 to look for it, and Mrs. R. took the four little ones into her room to
 sleep with her own six. Out of her scanty earnings she fed them too,
 and when she was asked why she had taxed her limited resources to this
-extent, she answered, 'Poor young'uns! how could I see'em a-starvin' and
+extent, she answered, 'Poor young 'uns! how could I see 'em a-starvin' and
 their father out 0' work, and no mother!' The man is still out of work,
 and Mrs. R. has thought it her duty to keep his children for over six
 months.
@@ -5177,7 +5178,7 @@ THE END.
 
 
 
-End of the Project Gutenberg EBook of How The Poor Live, and Horrible London, by 
+End of the Project Gutenberg EBook of How The Poor Live, and Horrible London, by
 George R. Sims
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE POOR ***
